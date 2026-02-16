@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student  
+- 🎓 IITR Student  
 - 💻 Passionate about Fullstack Development  
 - 🧠 Currently learning DSA & System Design  
 - ⚡ Love building scalable web apps  
@@ -32,19 +32,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINK)
-[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](YOUR_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINK](https://www.linkedin.com/in/ayushrsm45/))
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/Nagraj_Ayush)
 
 ---
 
